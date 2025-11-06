@@ -18,7 +18,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://github.com/HinaHyugaHime/Cosmoem/blob/main/splash.png",
+      "image": "https://raw.githubusercontent.com/HinaHyugaHime/Cosmoem/main/splash.png",
       "readme": "https://www.nexusmods.com/fallout4/mods/97648",
       "download": "https://authored-files.wabbajack.org/Cosmoem.wabbajack_d2ed6d4d-58b7-4fe5-b205-08fe63c541f1",
       "machineURL": "Cosmoem",
