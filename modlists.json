@@ -20,18 +20,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/HinaHyugaHime/Cosmoem/main/splash.png",
       "readme": "https://www.nexusmods.com/fallout4/mods/97648",
-      "download": "https://authored-files.wabbajack.org/Cosmoem.wabbajack_97b3a647-0802-42e0-83c4-8e5934f47eb4",
+      "download": "https://authored-files.wabbajack.org/Cosmoem.wabbajack_75270295-a5f6-46ab-bd8d-414b4d8c5258",
       "machineURL": "Cosmoem",
       "discordURL": "https://discord.gg/q2J2a4eF8A"
     },
-    "download_metadata":{"Hash":"/yTmQoaU6/0=",
-      "Size":18218508,
-      "NumberOfArchives":1467,
-      "SizeOfArchives":187595639262,
-      "NumberOfInstalledFiles":68084,
-      "SizeOfInstalledFiles":247584899200,
-      "TotalSize":435180538462},
-  "version": "1.0"
+    "download_metadata":{"Hash":"sCeDQNP2fHA=",
+      "Size":138713539,
+      "NumberOfArchives":1928,
+      "SizeOfArchives":196631249028,
+      "NumberOfInstalledFiles":74552,
+      "SizeOfInstalledFiles":257440765567,
+      "TotalSize":454072014595}
+  "version": "1.1"
   }
 ]
 
