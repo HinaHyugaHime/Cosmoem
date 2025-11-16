@@ -1,38 +1,43 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Cosmoem",
-    "description": "Visuals + outfits and all in NG",
+    "description": "Visuals \u002B outfits and all in NG",
     "author": "Hinatsumi",
     "maintainers": [
       "github/HinaHyugaHime"
     ],
     "game": "fallout4",
+    "official": false,
     "tags": [
       "SFW",
       "Steam",
       "DLC Required"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/HinaHyugaHime/Cosmoem/main/splash.png",
       "readme": "https://www.nexusmods.com/fallout4/mods/97648",
-      "download": "https://authored-files.wabbajack.org/Cosmoem.wabbajack_143beb09-696a-45b4-b207-c85ecd92bdc2",
+      "download": "https://authored-files.wabbajack.org/Cosmoem.wabbajack_6d1b00d2-4528-4acb-8951-582895a6d9b8",
       "machineURL": "Cosmoem",
-      "discordURL": "https://discord.gg/q2J2a4eF8A"
+      "discordURL": "https://discord.gg/q2J2a4eF8A",
+      "websiteURL": ""
     },
-    "download_metadata":{"Hash":"nm5fF/srmxE=",
-      "Size":135693159,
-      "NumberOfArchives":1692,
-      "SizeOfArchives":194979424624,
-      "NumberOfInstalledFiles":80780,
-      "SizeOfInstalledFiles":254568569589,
-      "TotalSize":449547994213},
-  "version": "1.4.1"
+    "download_metadata": {
+      "Hash": "rYuIWUVGvow=",
+      "Size": 135724634,
+      "NumberOfArchives": 1701,
+      "SizeOfArchives": 195353891386,
+      "NumberOfInstalledFiles": 80839,
+      "SizeOfInstalledFiles": 254953015268,
+      "TotalSize": 450306906654
+    },
+    "version": "1.4.3",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-11-16T15:08:04.2893506Z",
+    "repositoryName": ""
   }
 ]
-
-
