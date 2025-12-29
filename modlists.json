@@ -20,11 +20,11 @@
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/HinaHyugaHime/Cosmoem/main/splash.png",
-      "readme": "https://www.nexusmods.com/fallout4/mods/97648",
+      "readme": "https://github.com/HinaHyugaHime/Cosmoem/blob/main/changelog.md",
       "download": "https://authored-files.wabbajack.org/Cosmoem.wabbajack_ba963973-d636-4538-80db-8045c27f83dc",
       "machineURL": "Cosmoem",
       "discordURL": "https://discord.gg/c3RFwyAFsG",
-      "websiteURL": ""
+      "websiteURL": "https://www.nexusmods.com/fallout4/mods/97648"
     },
     "download_metadata": {"Hash":"chbV2fhxZwc=",
       "Size":92156563,
@@ -40,6 +40,7 @@
   }
 
 ]
+
 
 
 
