@@ -1,6 +1,39 @@
 # Changelog
 
 - [2.4.1.1](#2411)
+- [2.4.1.2](#2412)
+
+## 2.4.1.2
+**Built at:** `12/30/2025 9:20:18 AM`
+
+**Download Changes:**
+
+- Added [HiPoly Faces REDUX (Seamless Kit - CBBE - TWB - FG - AB) v1.5](https://www.nexusmods.com/fallout4/mods/58950)
+- Added [Pure Opulence Skin (8k - 4K) (CBBE - TWB - 3BBB Seamless) v1.0](https://www.nexusmods.com/fallout4/mods/87136)
+- Added [HiPoly Faces REDUX (Seamless Kit - CBBE - TWB - FG - AB) v1.5](https://www.nexusmods.com/fallout4/mods/58950)
+- Updated [Far Better Far Harbor - Exploration Expanded to v1.2.1](https://www.nexusmods.com/fallout4/mods/60641)
+- Removed [Vault Girl Interface Continued mod v1.0](https://www.nexusmods.com/fallout4/mods/94329)
+- Removed [Black Pip-Girl Safe and Pervert Edition v0.05](https://www.nexusmods.com/fallout4/mods/64106)
+- Removed [Valkyr Female Face and Body Textures v2.1](https://www.nexusmods.com/fallout4/mods/3841)
+- Removed [The Eyes Of Beauty Fallout Edition v3.2](https://www.nexusmods.com/fallout4/mods/133)
+- Removed [Vault Girl Tutorial Text and Messages v1.0](https://www.nexusmods.com/fallout4/mods/94658)
+- Removed [Vaultmeat Pervert Pip-boy v2.0](https://www.nexusmods.com/fallout4/mods/7530)
+- Removed [Far Better Far Harbor - Exploration Expanded v1.2.1](https://www.nexusmods.com/fallout4/mods/60641)
+
+**Load Order Changes:**
+- Added HiPolyFacesCompanionPlugin.esl
+- Added PureOpulence.esp
+- Added HiPolyFaces.esp
+
+**Mod Changes:**
+- Added HiPoly Faces REDUX - Seamless Kit (CBBE-TWB)
+- Added Pure Opulence - 8K - For HiPoly Face REDUX
+- Removed Valkyr Face Texture 1K Fair Skin
+- Removed Vault Girl Interface Continued mod
+- Removed Vault Girl Tutorial Text and Messages
+- Removed Vault Meat Pervert Pip-Boy NMM Installer
+- Removed Black Safe Edition PipBoy
+
 
 ## 2.4.1.1
 **Built at:** `12/29/2025 5:00:40 PM`
@@ -1512,3 +1545,4 @@
 - Removed CC Houses
 - Removed CC New PowerArmor
 - Removed Creation Club
+
