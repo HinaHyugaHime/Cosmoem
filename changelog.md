@@ -5,6 +5,338 @@
 - [2.4.2.1](#2421)
 - [2.4.5](#245)
 - [2.5](#25)
+- [2.5.1](#251)
+
+## 2.5.1
+**Built at:** `1/5/2026 7:08:16 AM`
+
+**Info:**
+- Download size change: -5.9GB (Total: 108.8GB)
+- Install size change: -3.8GB (Total: 145.7GB)
+
+**Download Changes:**
+
+- Added [Creative Perks Overhaul v1.67](https://www.nexusmods.com/fallout4/mods/85701)
+- Added [Gunner Outfit Pack - CBBE fixes v1.2](https://www.nexusmods.com/fallout4/mods/61182)
+- Added [Lore Friendly 5.56 Collection (New Vegas LMG - R91 - Van Buren .223 Autoloader) v1.3](https://www.nexusmods.com/fallout4/mods/62347)
+- Added [The Marine Shotgun - Prototype SW Burst Shotgun v1.0.3Reup](https://www.nexusmods.com/fallout4/mods/97161)
+- Added [Tumbajamba's Combat Armor MK2 v1.0.2](https://www.nexusmods.com/fallout4/mods/99491)
+- Added [Uncapped Settlement Surplus v2.0.1](https://www.nexusmods.com/fallout4/mods/12430)
+- Added [Winchester 5mm Range Rifle v1.1](https://www.nexusmods.com/fallout4/mods/53570)
+- Added [Papyrus Common Library v1.2.0](https://www.nexusmods.com/fallout4/mods/86222)
+- Added [Disable Companion Collision vv1.0.1](https://www.nexusmods.com/fallout4/mods/76454)
+- Added [LooksMenu v1.6.20](https://www.nexusmods.com/fallout4/mods/12631)
+- Added [Buffout 4 v1.28.6](https://www.nexusmods.com/fallout4/mods/47359)
+- Added [Desert Eagle - Standalone Handgun v2.1](https://www.nexusmods.com/fallout4/mods/10011)
+- Added [MadKea - without settlement v1.0](https://www.nexusmods.com/fallout4/mods/82423)
+- Added [Mercenary Outfit Pack Unibody CBBE Bodyslide Conversion v1.0](https://www.nexusmods.com/fallout4/mods/66928)
+- Added [Settlement Supplies Expanded v3.9](https://www.nexusmods.com/fallout4/mods/1145)
+- Added [Tumbajamba Armors CBBE Conversions v1.2](https://www.nexusmods.com/fallout4/mods/84055)
+- Added [Tumbajamba's Synth Combat Armor v1.0](https://www.nexusmods.com/fallout4/mods/82645)
+- Added [LevelUpMenuEx v1.10.163.0](https://www.nexusmods.com/fallout4/mods/28822)
+- Added [Tumbajamba's Heavy Shotgun and Gunner Armor v1.0](https://www.nexusmods.com/fallout4/mods/84259)
+- Added [Tumbajamba's Railroad Heavy Armor v1.1](https://www.nexusmods.com/fallout4/mods/84146)
+- Added [Hunter's Knife v1](https://www.nexusmods.com/fallout4/mods/82917)
+- Added [ITO institute Technology Overhaul Full - Version 2 v2.01](https://www.nexusmods.com/fallout4/mods/86958)
+- Added [Bullpup Sniper Rifle - Walther WA2000 v1.0.1](https://www.nexusmods.com/fallout4/mods/95542)
+- Added [The 9mm Pistol (Browning Hi-Power) Fallout New Vegas v1.0.0](https://www.nexusmods.com/fallout4/mods/93471)
+- Added [ToggleEquip v1.0.0](https://www.nexusmods.com/fallout4/mods/83024)
+- Added [12.7mm SMG - Fallout New Vegas v1.0.0](https://www.nexusmods.com/fallout4/mods/96444)
+- Added [Vintage Revolver - Smith and Wesson Schofield Model 3 v1.0.3](https://www.nexusmods.com/fallout4/mods/95859)
+- Added [Service Rifle and Assault Carbine - New Vegas Classics - M16A1 and CAR-15 v1.0.4](https://www.nexusmods.com/fallout4/mods/99170)
+- Added [Gunner Outfit Pack - CBBE Patch v1.0](https://www.nexusmods.com/fallout4/mods/54903)
+- Added [Tumbajamba's Survivalist and mysterious strangers Outfits v1.0](https://www.nexusmods.com/fallout4/mods/83937)
+- Added [Backported Archive2 Support System v1.0](https://www.nexusmods.com/fallout4/mods/81859)
+- Added [European Assault Rifle - FN FNC - Another Another Millenia v1.0](https://www.nexusmods.com/fallout4/mods/70995)
+- Added [Service Rifle and Assault Carbine - New Vegas Classics - M16A1 and CAR-15 v1.0.4](https://www.nexusmods.com/fallout4/mods/99170)
+- Added [Mercenary Outfit Pack (STANDALONE) v1.3](https://www.nexusmods.com/fallout4/mods/63576)
+- Added [Mercenary Outfit Pack (STANDALONE) v1.3](https://www.nexusmods.com/fallout4/mods/63576)
+- Added [Security SMG  - A Unique 10mm Submachinegun v1.3](https://www.nexusmods.com/fallout4/mods/64256)
+- Added [Nameplates - Floating Healthbars v1.1.13](https://www.nexusmods.com/fallout4/mods/21636)
+- Added [Remember Lockpick Angle - Updated v1.10.163](https://www.nexusmods.com/fallout4/mods/42421)
+- Added [Pistol Grip Combat Rifle v1.1](https://www.nexusmods.com/fallout4/mods/55719)
+- Added [The Bush Knife - Kukri v1.0.0](https://www.nexusmods.com/fallout4/mods/96060)
+- Added [Tumbajamba's DC Security Commander Armor v1.0](https://www.nexusmods.com/fallout4/mods/82576)
+- Added [Tumbajamba's Synth Courser Armor v1.0](https://www.nexusmods.com/fallout4/mods/82663)
+- Added [PerkPointsPerLevel v1.5.6.10163](https://www.nexusmods.com/fallout4/mods/3938)
+- Added [Whose Quest Is It Anyway v1.0.0](https://www.nexusmods.com/fallout4/mods/51979)
+- Added [ITO institute Technology Overhaul Full - Version 2 v2.01](https://www.nexusmods.com/fallout4/mods/86958)
+- Added [Gunner Outfit Pack (STANDALONE) v4.8.1](https://www.nexusmods.com/fallout4/mods/43686)
+- Added [Tumbajamba's Deathclaw Hunter Armor v1.0](https://www.nexusmods.com/fallout4/mods/82871)
+- Added [Gunner Outfit Pack (STANDALONE) v4.8.1](https://www.nexusmods.com/fallout4/mods/43686)
+- Added [Militia Carbine (Spitfire Carbine) v1.0.0](https://www.nexusmods.com/fallout4/mods/83884)
+- Added [Russian Assault Pack - SVD Dragunov - Saiga 12 - PP-19 Bizon - Stechkin APS - MP412 REX v1.0.3](https://www.nexusmods.com/fallout4/mods/42283)
+- Added [Tumbajamba's Bountyhunter Armor v1.0](https://www.nexusmods.com/fallout4/mods/82591)
+- Added [Russian Assault Pack - SVD Dragunov - Saiga 12 - PP-19 Bizon - Stechkin APS - MP412 REX v1.0.3](https://www.nexusmods.com/fallout4/mods/42283)
+- Added [Creative Perks Overhaul v1.67](https://www.nexusmods.com/fallout4/mods/85701)
+- Updated [Previsibines Repair Pack (PRP) Stable Branch to v69.5.1](https://www.nexusmods.com/fallout4/mods/46403)
+- Updated [Active Quest HUD to v1.5](https://www.nexusmods.com/fallout4/mods/97698)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [Fallout 4 Script Extender (F4SE) to v0.6.23](https://www.nexusmods.com/fallout4/mods/42147)
+- Updated [Extended Dialogue Interface to v1.3.6](https://www.nexusmods.com/fallout4/mods/27216)
+- Updated [Legendary Loot Expansion to v1.5.2](https://www.nexusmods.com/fallout4/mods/92247)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [RobCo Patcher to v3.5.4](https://www.nexusmods.com/fallout4/mods/69798)
+- Updated [Previsibines Repair Pack (PRP) Stable Branch to v69.5.1](https://www.nexusmods.com/fallout4/mods/46403)
+- Updated [Vendors Always Sell Player Weapons Ammo to v1.0](https://www.nexusmods.com/fallout4/mods/99110)
+- Updated [Garden of Eden Papyrus Script Extender to v13.5](https://www.nexusmods.com/fallout4/mods/74160)
+- Updated [Baka Framework to v1.10.0](https://www.nexusmods.com/fallout4/mods/43627)
+- Updated [Extended Fake Interiors - Commonwealth buildings fixes to v1.6](https://www.nexusmods.com/fallout4/mods/82222)
+- Updated [Bullet Counted Reload System (BCR) to v2.00](https://www.nexusmods.com/fallout4/mods/41178)
+- Updated [Workshop Framework to v2.3.15](https://www.nexusmods.com/fallout4/mods/35004)
+- Updated [Previsibines Repair Pack (PRP) Stable Branch to v69.5.1](https://www.nexusmods.com/fallout4/mods/46403)
+- Updated [Place Everywhere to v1.18.0.1163](https://www.nexusmods.com/fallout4/mods/9424)
+- Updated [Baka Wait Anywhere to v1.4](https://www.nexusmods.com/fallout4/mods/52723)
+- Updated [Mod Configuration Menu to v1.39](https://www.nexusmods.com/fallout4/mods/21497)
+- Updated [Crafting Highlight Fix to v1.8.8](https://www.nexusmods.com/fallout4/mods/27479)
+- Updated [Baka MaxPapyrusOps to v1.1.0](https://www.nexusmods.com/fallout4/mods/73774)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [Weightless Items to v1.3](https://www.nexusmods.com/fallout4/mods/73640)
+- Updated [Remove Ammo from Dropped Guns to v1.0.5](https://www.nexusmods.com/fallout4/mods/64426)
+- Updated [Weapon Debris Crash Fix to v1.2](https://www.nexusmods.com/fallout4/mods/48078)
+- Updated [Moon Rotation Fix to v1.0.0](https://www.nexusmods.com/fallout4/mods/80005)
+- Updated [Sprint Stuttering Fix to v1.2](https://www.nexusmods.com/fallout4/mods/47760)
+- Updated [Base Object Swapper to v1.0](https://www.nexusmods.com/fallout4/mods/67528)
+- Updated [Extended Fake Interiors - Commonwealth buildings fixes to v1.6](https://www.nexusmods.com/fallout4/mods/82222)
+- Updated [Encounter Zone Recalculation (Continuous Level Scaling) to v1.0](https://www.nexusmods.com/fallout4/mods/45674)
+- Updated [High FPS Physics Fix to v0.8.6](https://www.nexusmods.com/fallout4/mods/44798)
+- Removed [Active Quest HUD v1.5](https://www.nexusmods.com/fallout4/mods/97698)
+- Removed [Baka Wait Anywhere v1.4](https://www.nexusmods.com/fallout4/mods/52723)
+- Removed [Data_ccbgsfo4003-pipboy(camo01) - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4009-piporan - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4014-pipboy(white).esl](about:blank)
+- Removed [ITO Settlement Items Stand Alone v1.11](https://www.nexusmods.com/fallout4/mods/88845)
+- Removed [Nora Spouse Companion v1.2](https://www.nexusmods.com/fallout4/mods/24680)
+- Removed [Whisper's Extra Pieces and Snaps v2](https://www.nexusmods.com/fallout4/mods/49570)
+- Removed [Fallout 4 Script Extender (F4SE) v0.6.23](https://www.nexusmods.com/fallout4/mods/42147)
+- Removed [Garden of Eden Papyrus Script Extender v13.5](https://www.nexusmods.com/fallout4/mods/74160)
+- Removed [Mod Configuration Menu v1.39](https://www.nexusmods.com/fallout4/mods/21497)
+- Removed [Legendary Loot Expansion v1.5.2](https://www.nexusmods.com/fallout4/mods/92247)
+- Removed [Remove Ammo from Dropped Guns v1.0.5](https://www.nexusmods.com/fallout4/mods/64426)
+- Removed [RobCo Patcher v3.5.4](https://www.nexusmods.com/fallout4/mods/69798)
+- Removed [Data_ccbgsfo4003-pipboy(camo01) - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4009-piporan.esl](about:blank)
+- Removed [Data_ccbgsfo4015-pipyell - main.ba2](about:blank)
+- Removed [Extended Dialogue Interface v1.3.6](https://www.nexusmods.com/fallout4/mods/27216)
+- Removed [Baka Framework v1.10.0](https://www.nexusmods.com/fallout4/mods/43627)
+- Removed [Bullet Counted Reload System (BCR) v2.00](https://www.nexusmods.com/fallout4/mods/41178)
+- Removed [PerkPointsPerLevel NG (F4SE) v1.1.0](https://www.nexusmods.com/fallout4/mods/95837)
+- Removed [Data_ccbgsfo4003-pipboy(camo01).esl](about:blank)
+- Removed [Data_ccbgsfo4010-pippnk - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4015-pipyell - textures.ba2](about:blank)
+- Removed [Nora Spouse Companion v1.2](https://www.nexusmods.com/fallout4/mods/24680)
+- Removed [Nameplates.v1-1-15.zip](https://github.com/user-attachments/files/24203681/Nameplates.v1-1-15.zip)
+- Removed [Base Object Swapper v1.0](https://www.nexusmods.com/fallout4/mods/67528)
+- Removed [Fallout 4 High Heels System v1.8.3](https://www.nexusmods.com/fallout4/mods/39850)
+- Removed [Moon Rotation Fix v1.0.0](https://www.nexusmods.com/fallout4/mods/80005)
+- Removed [Weapon Debris Crash Fix v1.2](https://www.nexusmods.com/fallout4/mods/48078)
+- Removed [Data_ccBGSFO4004-PipBoy(Camo02) - Main.ba2](about:blank)
+- Removed [Data_ccbgsfo4010-pippnk - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4015-pipyell.esl](about:blank)
+- Removed [Sprint Stuttering Fix v1.2](https://www.nexusmods.com/fallout4/mods/47760)
+- Removed [Weightless Items v1.3](https://www.nexusmods.com/fallout4/mods/73640)
+- Removed [Data_ccBGSFO4004-PipBoy(Camo02) - Textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4010-pippnk.esl](about:blank)
+- Removed [LooksMenu.v1-7-0-3.zip](https://github.com/user-attachments/files/24198428/LooksMenu.v1-7-0-3.zip)
+- Removed [Crafting Highlight Fix v1.8.8](https://www.nexusmods.com/fallout4/mods/27479)
+- Removed [Encounter Zone Recalculation (Continuous Level Scaling) v1.0](https://www.nexusmods.com/fallout4/mods/45674)
+- Removed [Data_ccbgsfo4004-pipboy(camo02).esl](about:blank)
+- Removed [Data_ccbgsfo4011-pippurp - main.ba2](about:blank)
+- Removed [Disable Companion Collision AE (F4SE) v1.0.0](https://www.nexusmods.com/fallout4/mods/99213)
+- Removed [Place Everywhere v1.18.0.1163](https://www.nexusmods.com/fallout4/mods/9424)
+- Removed [Whose Quest Is It NG (F4SE) v1.0.0](https://www.nexusmods.com/fallout4/mods/98351)
+- Removed [Data_ccbgsfo4005-bluecamo - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4011-pippurp - textures.ba2](about:blank)
+- Removed [High FPS Physics Fix v0.8.6](https://www.nexusmods.com/fallout4/mods/44798)
+- Removed [Data_ccacxfo4001-vsuit - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4005-bluecamo - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4011-pippurp.esl](about:blank)
+- Removed [X-Cell Fallout 4 v1.2-b2](https://www.nexusmods.com/fallout4/mods/84214)
+- Removed [CompanionStimpak v1.01](https://www.nexusmods.com/fallout4/mods/99667)
+- Removed [Data_ccacxfo4001-vsuit - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4005-bluecamo.esl](about:blank)
+- Removed [Data_ccbgsfo4012-pipboy(red) - main.ba2](about:blank)
+- Removed [Vendors Always Sell Player Weapons Ammo v1.0](https://www.nexusmods.com/fallout4/mods/99110)
+- Removed [Data_ccacxfo4001-vsuit.esl](about:blank)
+- Removed [Data_ccBGSFO4006-PipBoy(Chrome) - Main.ba2](about:blank)
+- Removed [Data_ccbgsfo4012-pipboy(red) - textures.ba2](about:blank)
+- Removed [Data_ccBGSFO4001-PipBoy(Black) - Main.ba2](about:blank)
+- Removed [Data_ccBGSFO4006-PipBoy(Chrome) - Textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4012-pipboy(red).esl](about:blank)
+- Removed [Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4006-pipboy(chrome).esl](about:blank)
+- Removed [Data_ccbgsfo4013-piptan - main.ba2](about:blank)
+- Removed [We Are The Minutemen - eXoPatch v1.1.2](https://www.nexusmods.com/fallout4/mods/83776)
+- Removed [ToggleEquip AE (F4SE) v1.0.0](https://www.nexusmods.com/fallout4/mods/99113)
+- Removed [Data_ccbgsfo4001-pipboy(black).esl](about:blank)
+- Removed [Data_ccbgsfo4008-pipgrn - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4013-piptan - textures.ba2](about:blank)
+- Removed [Previsibines Repair Pack (PRP) Stable Branch v69.5.1](https://www.nexusmods.com/fallout4/mods/46403)
+- Removed [Data_ccbgsfo4002-pipboy(blue) - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4008-pipgrn - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4013-piptan.esl](about:blank)
+- Removed [Baka MaxPapyrusOps v1.1.0](https://www.nexusmods.com/fallout4/mods/73774)
+- Removed [Data_ccbgsfo4002-pipboy(blue) - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4008-pipgrn.esl](about:blank)
+- Removed [Data_ccbgsfo4014-pipboy(white) - main.ba2](about:blank)
+- Removed [ITO Institute Work Benchs v1.0](https://www.nexusmods.com/fallout4/mods/86508)
+- Removed [Data_ccbgsfo4002-pipboy(blue).esl](about:blank)
+- Removed [Data_ccbgsfo4009-piporan - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4014-pipboy(white) - textures.ba2](about:blank)
+
+**Load Order Changes:**
+- Added OHPWeaponBehavior.esm
+- Added ppf-heavyflamer-cr.esm
+- Added Creative Perks Overhaul.esp
+- Added Creative Perks (Companion Perks).esp
+- Added MadKea-01.esp
+- Added Tumba_HeavyCombatArmor.esp
+- Added Tumba_HeavyCombatArmor_GunnerBoss.esp
+- Added Tumba_HeavyCombatArmor_CombatInjection.esp
+- Added Tumba_HeavyCombatArmor_MacCreadyReplacer.esp
+- Added Tumba_HeavyCombatArmor_CaravanGuards.esp
+- Added Tumba_HeavyCombatArmor_ScavengerInjection.esp
+- Added Tumba_HeavyCombatArmor_VendorInjection.esp
+- Added Tumba_HeavyCombatArmor_WastelanderInjection.esp
+- Added DT_MercOutfitPack.esp
+- Added DT_GunnerOutfitPack.esp
+- Added DT_GunnerOutfitPack_Patch.esp
+- Added DT_GunnerOutfitPackCBBE.esp
+- Added HunterKnife.esp
+- Added DakSpitfire.esp
+- Added CW9mmPistol.esp
+- Added CWWA2000.esp
+- Added CWBushKnife.esp
+- Added CWSchofeild.esp
+- Added CWBurstShotgun.esp
+- Added CW127MMSMG.esp
+- Added VltSec10mmSmg.esp
+- Added PigFNC.esp
+- Added RangeRifle.esp
+- Added PistolGripCR.esp
+- Added XR92_Rifle.esp
+- Added NV_LMG.esp
+- Added VanBuren_223.esp
+- Added RussianAssaultPack.esp
+- Added DOOMDesertEagle.esp
+- Added CWServRifle.esp
+- Added SSEX.esp
+- Added UncappedSettlementSurplus.esp
+- Added ccfsvfo4007-halloweenCCSMM.esp
+- Added MadKea SMM.esp
+- Added KetarosTreasures SMM.esp
+- Added (SKI-Tumba) Heavy Shotgun.esp
+- Added RailroadHeavy.esp
+- Added survivalist_armor.esp
+- Added tumba_deathclaw_hunter.esp
+- Added tumba_SynthCombatArmor.esp
+- Added tumba_SynthCourserArmor.esp
+- Added tumba_DCScurityCommander.esp
+- Added tumba_bountyhunter.esp
+- Added ITOcore.esp
+- Added ITO-Addon.esp
+- Added ITOworldedits.esp
+- Added ITOSynthNPC.esp
+- Added ImprovedInstITO2Patch.esp
+- Added ImprovedRRTumbaHeavyPatch.esp
+- Added Extended Fake Interior - CC Enclave Remnants Patch.esp
+- Added SSEX SMM.esp
+- Added FOLIP - Before Generation.esp
+- Added FOLIP - After Generation.esp
+- Added FakeInterior_RebuildPatch.esp
+- Added prp-vault88-template-patch.esp
+- Removed ccbgsfo4001-pipboy(black).esl
+- Removed ccbgsfo4002-pipboy(blue).esl
+- Removed ccbgsfo4003-pipboy(camo01).esl
+- Removed ccbgsfo4004-pipboy(camo02).esl
+- Removed ccbgsfo4006-pipboy(chrome).esl
+- Removed ccbgsfo4012-pipboy(red).esl
+- Removed ccbgsfo4014-pipboy(white).esl
+- Removed ccbgsfo4005-bluecamo.esl
+- Removed ccbgsfo4008-pipgrn.esl
+- Removed ccbgsfo4015-pipyell.esl
+- Removed ccbgsfo4009-piporan.esl
+- Removed ccbgsfo4011-pippurp.esl
+- Removed ccbgsfo4013-piptan.esl
+- Removed ccbgsfo4010-pippnk.esl
+- Removed ccacxfo4001-vsuit.esl
+- Removed NoraSpouse.esm
+- Removed W.A.T.Minutemen-EAC.esp
+- Removed CompanionStimpak.esp
+- Removed FO4HHS.esp
+- Removed InstituteWorkBenches.esp
+- Removed ITOsettlementObjects.esp
+- Removed ITO-SettlementsNoreqs.esp
+- Removed NoraSpouseFarHarbor.esp
+- Removed whisperExtraPieces.esp
+- Removed ccfsvfo4007-halloweenSMM.esp
+
+**Mod Changes:**
+- Added Cosmoem - Overwrite
+- Added Cosmoem - FOLIP Before Generation
+- Added Cosmoem - Aftergen
+- Added Whose Quest Is It Anyway
+- Added Disable Companion Collision
+- Added ToggleEquip
+- Added Extended Fake Interior - CC Enclave Remnants Patch
+- Added Extended Fake Interior Rebuild AIO patch
+- Added Remember Lockpick Angle - Updated
+- Added PerkPointsPerLevel
+- Added Tumbajamba Armors CBBE Conversions
+- Added Tumbajamba's Bountyhunter Armor
+- Added Tumbajamba's DC Security Commander Armor
+- Added Tumbajamba's Synth Courser Armor
+- Added Tumbajamba's Synth Combat Armor
+- Added Tumbajamba's Deathclaw Hunter Armor
+- Added Tumbajamba's Survivalist and mysterious strangers Outfits
+- Added Tumbajamba's Railroad Heavy Armor
+- Added Gunner Outfit Pack - CBBE fixes
+- Added Gunner Outfit Pack - CBBE Patch
+- Added Gunner Outfit Pack (STANDALONE)
+- Added Mercenary Outfit Pack Unibody CBBE Bodyslide Conversion
+- Added Mercenary Outfit Pack (STANDALONE)
+- Added Tumbajamba's Combat Armor MK II
+- Added Tumbajamba's Heavy Shotgun and Gunner Armor
+- Added CW Service Rifle and Assault Carbine
+- Added Desert Eagle - Standalone Handgun
+- Added Russian Assault Pack - 1.0
+- Added Lore Friendly 5.56 Collection (New Vegas LMG - R91 - Van Buren .223 Autoloader)
+- Added Pistol Grip Combat Rifle
+- Added Winchester 5mm Range Rifle
+- Added European Assault Rifle - FN FNC - Another Another Millenia
+- Added Security SMG - A Unique 10mm Submachinegun
+- Added 12.7mm SMG - Fallout New Vegas
+- Added The Marine Shotgun - Prototype SW Burst Shotgun
+- Added Vintage Revolver - Smith and Wesson Schofield Model 3
+- Added The Bush Knife - Kukri
+- Added Bullpup Sniper Rifle - Walther WA2000
+- Added The 9mm Pistol (Browning Hi-Power) Fallout New Vegas
+- Added Militia Carbine (Spitfire Carbine)
+- Added Hunter's Knife
+- Added Uncapped Settlement Surplus
+- Added Settlement Supplies Expanded
+- Added MadKea - without settlement
+- Added LevelUpMenuEx
+- Added Old-Gen Replacers
+- Added Creative Perks (Companion Perks)
+- Added Creative Perks Overhaul
+- Added ITO Institute Technology Overhaul Full v2
+- Added Backported Archive2 Support System
+- Added Papyrus Common Library
+- Added Buffout 4
+- Removed CompanionStimpak
+- Removed Nora Spouse Companion
+- Removed Whose Quest Is It NG (F4SE)
+- Removed PerkPointsPerLevel NG (F4SE)
+- Removed ToggleEquip (F4SE)
+- Removed Eli's Armour Compendium Patch
+- Removed Whisper's Extra Pieces and Snaps
+- Removed ITO Institute Work Benchs
+- Removed ITO Settlement Objects Stand Alone
+- Removed Disable Companion Collision AE (F4SE)
+- Removed X-Cell
+- Removed FO4HHS AE 1.11.191
+
 
 ## 2.5
 **Built at:** `1/2/2026 4:11:35 PM`
@@ -3213,6 +3545,7 @@
 - Removed CC Houses
 - Removed CC New PowerArmor
 - Removed Creation Club
+
 
 
 
