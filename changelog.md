@@ -7,6 +7,318 @@
 - [2.5](#25)
 - [2.5.1](#251)
 - [2.5.1.1](#2511)
+- [2.5.1.5](#2515)
+
+## 2.5.1.5
+**Built at:** `1/7/2026 10:25:57 PM`
+
+**Info:**
+- Download size change: -4.9GB (Total: 115.1GB)
+- Install size change: -6.7GB (Total: 153.9GB)
+
+**Download Changes:**
+
+- Added [HK G3 - Battle rifle v1.0f](https://www.nexusmods.com/fallout4/mods/51754)
+- Added [M3D - Sig Sauer P220 v1.03](https://www.nexusmods.com/fallout4/mods/18796)
+- Added [DKS-501 Sniper Rifle - Standalone v1.5](https://www.nexusmods.com/fallout4/mods/15909)
+- Added [H and K UMP 45 v2.3](https://www.nexusmods.com/fallout4/mods/10269)
+- Added [HK45 pistol](https://www.nexusmods.com/fallout4/mods/16448)
+- Added [MG42 and MG34 vV1.4](https://www.nexusmods.com/fallout4/mods/38066)
+- Added [The All American - M1A1 Thompson - M1911 - M1 Garand - BAR v3.0](https://www.nexusmods.com/fallout4/mods/85431)
+- Added [Sexy Sports Lingerie - CBBE - BodySlide v1.02](https://www.nexusmods.com/fallout4/mods/53871)
+- Added [M1911A1 - Standalone Handgun v2.1](https://www.nexusmods.com/fallout4/mods/10406)
+- Added [McMillan CS5 - A Standalone Sniper Rifle v2.0](https://www.nexusmods.com/fallout4/mods/27739)
+- Added [McMillan CS5 - A Standalone Sniper Rifle v2.0](https://www.nexusmods.com/fallout4/mods/27739)
+- Added [McMillan CS5 - A Standalone Sniper Rifle v2.0](https://www.nexusmods.com/fallout4/mods/27739)
+- Added [Map Marker Overhaul - Unmarked Locations - Fast Travel - Exploration v004](https://www.nexusmods.com/fallout4/mods/78072)
+- Added [McMillan CS5 - A Standalone Sniper Rifle v2.0](https://www.nexusmods.com/fallout4/mods/27739)
+- Added [Kriss Vector vV1.3](https://www.nexusmods.com/fallout4/mods/37062)
+- Added [AK47 - Type 56 - M70 v1.0.7](https://www.nexusmods.com/fallout4/mods/72338)
+- Added [Marine Anti-Materiel Rifle - Barrett M82 50 Cal - Cobra Assault Cannon v1.0.1](https://www.nexusmods.com/fallout4/mods/91569)
+- Added [Glock 19X - Pistol v1.0](https://www.nexusmods.com/fallout4/mods/44404)
+- Added [American 180 - .22 Submachine Gun v1.0d](https://www.nexusmods.com/fallout4/mods/60000)
+- Added [Heckler und Koch - G36 Complex v2.0](https://www.nexusmods.com/fallout4/mods/28443)
+- Added [45-70 Hunting Revolver (Standalone) v3.0](https://www.nexusmods.com/fallout4/mods/14609)
+- Added [The All American - M1A1 Thompson - M1911 - M1 Garand - BAR v3.0](https://www.nexusmods.com/fallout4/mods/85431)
+- Added [The All American - M1A1 Thompson - M1911 - M1 Garand - BAR v3.0](https://www.nexusmods.com/fallout4/mods/85431)
+- Added [MW2022 - Cronen Squall - General Dynamics RM277 v1.0](https://www.nexusmods.com/fallout4/mods/77442)
+- Added [The All American - M1A1 Thompson - M1911 - M1 Garand - BAR v3.0](https://www.nexusmods.com/fallout4/mods/85431)
+- Added [AnotherOne Sten MkII Redux v1.02](https://www.nexusmods.com/fallout4/mods/60328)
+- Added [McMillan CS5 - A Standalone Sniper Rifle v2.0](https://www.nexusmods.com/fallout4/mods/27739)
+- Added [The All American - M1A1 Thompson - M1911 - M1 Garand - BAR v3.0](https://www.nexusmods.com/fallout4/mods/85431)
+- Added [AnotherOne Sten MkII Redux v1.02](https://www.nexusmods.com/fallout4/mods/60328)
+- Added [The All American - M1A1 Thompson - M1911 - M1 Garand - BAR v3.0](https://www.nexusmods.com/fallout4/mods/85431)
+- Added [HK G3 - Battle rifle v1.0f](https://www.nexusmods.com/fallout4/mods/51754)
+- Removed [Data_ccbgsfo4054-dggreatd - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4059-dgpit - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4070-pipabra.esl](about:blank)
+- Removed [Data_ccbgsfo4076-pipmystery - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4081-pipphenolresin - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4086-pipadventure.esl](about:blank)
+- Removed [Data_ccswkfo4002-pipnuka.esl](about:blank)
+- Removed [Data_ccbgsfo4019-chinesestealtharmor.esl](about:blank)
+- Removed [Data_ccbgsfo4049-brahminarmor - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4054-dggreatd - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4059-dgpit.esl](about:blank)
+- Removed [Data_ccbgsfo4071-piparc - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4076-pipmystery - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4081-pipphenolresin.esl](about:blank)
+- Removed [Data_ccbgsfo4087-piphaida - main.ba2](about:blank)
+- Removed [Data_ccswkfo4003-pipquan - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4049-brahminarmor - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4054-dggreatd.esl](about:blank)
+- Removed [Data_ccbgsfo4060-dgrot - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4071-piparc - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4076-pipmystery.esl](about:blank)
+- Removed [Data_ccbgsfo4082-pipprc - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4087-piphaida - textures.ba2](about:blank)
+- Removed [Data_ccswkfo4003-pipquan - textures.ba2](about:blank)
+- Removed [Patch for Smooth First Person Sprint and Raw Input v1.0](https://www.nexusmods.com/fallout4/mods/41904)
+- Removed [Data_ccbgsfo4049-brahminarmor.esl](about:blank)
+- Removed [Data_ccbgsfo4055-dghusk - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4060-dgrot - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4071-piparc.esl](about:blank)
+- Removed [Data_ccbgsfo4077-piprocket - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4082-pipprc - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4087-piphaida.esl](about:blank)
+- Removed [Data_ccswkfo4003-pipquan.esl](about:blank)
+- Removed [Data_ccbgsfo4050-dgbcoll - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4055-dghusk - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4060-dgrot.esl](about:blank)
+- Removed [Data_ccbgsfo4072-pipgrog - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4077-piprocket - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4082-pipprc.esl](about:blank)
+- Removed [Data_ccbgsfo4089-pipsynthwave - main.ba2](about:blank)
+- Removed [Data_ccgrcfo4001-pipgreytort - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4050-dgbcoll - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4055-dghusk.esl](about:blank)
+- Removed [Data_ccbgsfo4061-dgshiinu - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4072-pipgrog - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4077-piprocket.esl](about:blank)
+- Removed [Data_ccbgsfo4083-pipartdeco - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4089-pipsynthwave - textures.ba2](about:blank)
+- Removed [Data_ccgrcfo4001-pipgreytort - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4050-dgbcoll.esl](about:blank)
+- Removed [Data_ccbgsfo4056-dglabb - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4061-dgshiinu - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4072-pipgrog.esl](about:blank)
+- Removed [Data_ccbgsfo4078-pipreily - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4083-pipartdeco - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4089-pipsynthwave.esl](about:blank)
+- Removed [Data_ccgrcfo4001-pipgreytort.esl](about:blank)
+- Removed [Data_ccbgsfo4051-dgbox - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4056-dglabb - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4061-dgshiinu.esl](about:blank)
+- Removed [Data_ccbgsfo4073-pipmman - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4078-pipreily - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4083-pipartdeco.esl](about:blank)
+- Removed [Data_ccbgsfo4090-piptribal - main.ba2](about:blank)
+- Removed [Data_ccgrcfo4002-pipgreenvim - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4045-advarccab - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4051-dgbox - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4056-dglabb.esl](about:blank)
+- Removed [Data_ccbgsfo4062-pippat - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4073-pipmman - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4078-pipreily.esl](about:blank)
+- Removed [Data_ccbgsfo4084-pipretro - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4090-piptribal - textures.ba2](about:blank)
+- Removed [Data_cccrsfo4001-pipcoa - main.ba2](about:blank)
+- Removed [Data_ccgrcfo4002-pipgreenvim - textures.ba2](about:blank)
+- Removed [Extended Fake Interiors - Commonwealth buildings fixes v1.6](https://www.nexusmods.com/fallout4/mods/82222)
+- Removed [Data_ccBGSFO4016-Prey - Main.ba2](about:blank)
+- Removed [Data_ccbgsfo4045-advarccab - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4051-dgbox.esl](about:blank)
+- Removed [Data_ccbgsfo4057-dglaby - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4062-pippat - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4073-pipmman.esl](about:blank)
+- Removed [Data_ccbgsfo4079-pipvim - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4084-pipretro - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4090-piptribal.esl](about:blank)
+- Removed [Data_cccrsfo4001-pipcoa - textures.ba2](about:blank)
+- Removed [Data_ccgrcfo4002-pipgreenvim.esl](about:blank)
+- Removed [Data_ccrzrfo4003-pipover - main.ba2](about:blank)
+- Removed [Data_ccBGSFO4016-Prey - Textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4045-advarccab.esl](about:blank)
+- Removed [Data_ccbgsfo4052-dgdal - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4057-dglaby - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4062-pippat.esl](about:blank)
+- Removed [Data_ccbgsfo4074-pipinspect - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4079-pipvim - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4084-pipretro.esl](about:blank)
+- Removed [Data_cccrsfo4001-pipcoa.esl](about:blank)
+- Removed [Data_ccrzrfo4003-pipover - textures.ba2](about:blank)
+- Removed [Extended Fake Interiors - Commonwealth buildings fixes v1.6](https://www.nexusmods.com/fallout4/mods/82222)
+- Removed [Data_ccbgsfo4016-prey.esl](about:blank)
+- Removed [Data_ccbgsfo4052-dgdal - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4057-dglaby.esl](about:blank)
+- Removed [Data_ccbgsfo4074-pipinspect - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4079-pipvim.esl](about:blank)
+- Removed [Data_ccbgsfo4085-piphawaii - main.ba2](about:blank)
+- Removed [Data_ccrzrfo4003-pipover.esl](about:blank)
+- Removed [Data_ccbgsfo4036-trnsdg - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4052-dgdal.esl](about:blank)
+- Removed [Data_ccbgsfo4058-dglabc - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4074-pipinspect.esl](about:blank)
+- Removed [Data_ccbgsfo4080-pippop - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4085-piphawaii - textures.ba2](about:blank)
+- Removed [Data_ccrzrfo4004-pipinst - main.ba2](about:blank)
+- Removed [Extended Fake Interiors - Commonwealth buildings fixes v1.6](https://www.nexusmods.com/fallout4/mods/82222)
+- Removed [Radio Reverb Fix v1](https://www.nexusmods.com/fallout4/mods/16563)
+- Removed [Stop shaking in ADS v1.2](https://www.nexusmods.com/fallout4/mods/58120)
+- Removed [Data_ccbgsfo4036-trnsdg - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4053-dggoldr - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4058-dglabc - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4075-pipshroud - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4080-pippop - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4085-piphawaii.esl](about:blank)
+- Removed [Data_ccrzrfo4004-pipinst - textures.ba2](about:blank)
+- Removed [Data_ccygpfo4001-pipcruiser - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4036-trnsdg.esl](about:blank)
+- Removed [Data_ccbgsfo4053-dggoldr - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4058-dglabc.esl](about:blank)
+- Removed [Data_ccbgsfo4070-pipabra - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4075-pipshroud - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4080-pippop.esl](about:blank)
+- Removed [Data_ccbgsfo4086-pipadventure - main.ba2](about:blank)
+- Removed [Data_ccrzrfo4004-pipinst.esl](about:blank)
+- Removed [Data_ccswkfo4002-pipnuka - main.ba2](about:blank)
+- Removed [Data_ccygpfo4001-pipcruiser - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4053-dggoldr.esl](about:blank)
+- Removed [Data_ccbgsfo4059-dgpit - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4070-pipabra - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4075-pipshroud.esl](about:blank)
+- Removed [Data_ccbgsfo4081-pipphenolresin - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4086-pipadventure - textures.ba2](about:blank)
+- Removed [Data_ccswkfo4002-pipnuka - textures.ba2](about:blank)
+- Removed [Data_ccygpfo4001-pipcruiser.esl](about:blank)
+
+**Load Order Changes:**
+- Added ccbgsfo4044-hellfirepowerarmor.esl
+- Added ccbgsfo4115-x02.esl
+- Added ccbgsfo4116-heavyflamer.esl
+- Added ccbgsfo4110-ws_enclave.esl
+- Added ccbgsfo4096-as_enclave.esl
+- Added ccfsvfo4007-halloween.esl
+- Added ccsbjfo4003-grenade.esl
+- Added Glock19x.esp
+- Added Ozzys_Cronen_Squall.esp
+- Added Type_56_AK47_M70.esp
+- Added DD_bleu_Ump_Extreme_Lore_friendly_edition.esp
+- Added P220.esp
+- Added DOOM1911.esp
+- Added American180nv.esp
+- Added VGM1Golf.esp
+- Added hk 45.esp
+- Added G36Complex.esp
+- Added G3A3.esp
+- Added MG42.esp
+- Added KrissVector.esp
+- Added Hunting Revolver_SA.esp
+- Added Sten.esp
+- Added VGMike1911.esp
+- Added G3A3_AnimationUpdate.esp
+- Added VGThotel.esp
+- Added VGowen.esp
+- Added AutomaticSpecialReceiverFix.esp
+- Added ClassicSniper.esp
+- Added VGM1Golf_AmmoFIX.esp
+- Added McMillanCS5.esp
+- Added CWM82.esp
+- Added MapMarkerREF_Q.esp
+- Added Sexy Sports Lingerie.esp
+- Removed ccbgsfo4016-prey.esl
+- Removed ccbgsfo4019-chinesestealtharmor.esl
+- Removed ccBGSFO4044-HellfirePowerArmor.esl
+- Removed ccbgsfo4045-advarccab.esl
+- Removed ccswkfo4002-pipnuka.esl
+- Removed ccswkfo4003-pipquan.esl
+- Removed ccbgsfo4050-dgbcoll.esl
+- Removed ccbgsfo4051-dgbox.esl
+- Removed ccbgsfo4052-dgdal.esl
+- Removed ccbgsfo4053-dggoldr.esl
+- Removed ccbgsfo4054-dggreatd.esl
+- Removed ccbgsfo4055-dghusk.esl
+- Removed ccbgsfo4056-dglabb.esl
+- Removed ccbgsfo4057-dglaby.esl
+- Removed ccbgsfo4058-dglabc.esl
+- Removed ccbgsfo4059-dgpit.esl
+- Removed ccbgsfo4060-dgrot.esl
+- Removed ccbgsfo4061-dgshiinu.esl
+- Removed ccbgsfo4036-trnsdg.esl
+- Removed ccrzrfo4004-pipinst.esl
+- Removed ccbgsfo4062-pippat.esl
+- Removed ccrzrfo4003-pipover.esl
+- Removed ccygpfo4001-pipcruiser.esl
+- Removed ccbgsfo4072-pipgrog.esl
+- Removed ccbgsfo4073-pipmman.esl
+- Removed ccbgsfo4074-pipinspect.esl
+- Removed ccbgsfo4075-pipshroud.esl
+- Removed ccbgsfo4076-pipmystery.esl
+- Removed ccbgsfo4071-piparc.esl
+- Removed ccbgsfo4079-pipvim.esl
+- Removed ccbgsfo4078-pipreily.esl
+- Removed ccbgsfo4077-piprocket.esl
+- Removed ccbgsfo4070-pipabra.esl
+- Removed ccgrcfo4001-pipgreytort.esl
+- Removed ccgrcfo4002-pipgreenvim.esl
+- Removed ccBGSFO4115-X02.esl
+- Removed ccBGSFO4116-HeavyFlamer.esl
+- Removed ccBGSFO4110-WS_Enclave.esl
+- Removed ccBGSFO4096-AS_Enclave.esl
+- Removed ccbgsfo4090-piptribal.esl
+- Removed ccbgsfo4089-pipsynthwave.esl
+- Removed ccbgsfo4087-piphaida.esl
+- Removed ccbgsfo4085-piphawaii.esl
+- Removed ccbgsfo4084-pipretro.esl
+- Removed ccbgsfo4083-pipartdeco.esl
+- Removed ccbgsfo4082-pipprc.esl
+- Removed ccbgsfo4081-pipphenolresin.esl
+- Removed ccbgsfo4080-pippop.esl
+- Removed ccbgsfo4086-pipadventure.esl
+- Removed ccFSVFO4007-Halloween.esl
+- Removed cccrsfo4001-pipcoa.esl
+- Removed ccbgsfo4049-brahminarmor.esl
+- Removed ccSBJFO4003-Grenade.esl
+- Removed fakeInt.esp
+- Removed fakeInt_Boston.esp
+- Removed fakeInt_DLC.esp
+- Removed Raw Input - Sprint Fix Patch.esp
+- Removed RadioReverbFixSubtle.esp
+- Removed ITO-Addon.esp
+- Removed Extended Fake Interior - CC Enclave Remnants Patch.esp
+
+**Mod Changes:**
+- Added Map Marker Overhaul - Unmarked Locations - Fast Travel - Exploration
+- Added Sexy Sports Lingerie - CBBE - BodySlide
+- Added Marine Anti-Materiel Rifle - Barrett M82 50 Cal - Cobra Assault Cannon
+- Added McMillan CS5 - A Standalone Sniper Rifle
+- Added DKS-501 Sniper Rifle - Standalone
+- Added Mod 4 - Owen Gun - PRENEXTGEN
+- Added 1.0 - M1A1 Thompson
+- Added Mod 2 - M1911
+- Added AnotherOne Sten MkII Update 1.02
+- Added AnotherOne Sten MkII Redux
+- Added 45-70 Hunting Revolver (Standalone)
+- Added Kriss Vector
+- Added MG42 and MG34
+- Added HK G3 - Battle rifle
+- Added Heckler und Koch - G36 Complex
+- Added HK45 pistol
+- Added Mod 1 - M1 Garand
+- Added American 180 - .22 Submachine Gun
+- Added M1911A1 - Standalone Handgun
+- Added M3D - Sig Sauer P220
+- Added H and K UMP 45
+- Added AK47 - Type 56 - M70
+- Added MW2022 - Cronen Squall - General Dynamics RM277
+- Added Glock 19X - Pistol
+- Added weightless ammo robco
+- Removed Extended Fake Interior - CC Enclave Remnants Patch
+- Removed Stop shaking in ADS
+- Removed Patch for Smooth First Person Sprint and Raw Input
+- Removed Radio Reverb Fix
+- Removed Extended Fake Interior
+
 
 ## 2.5.1.1
 **Built at:** `1/5/2026 9:29:08 PM`
@@ -3606,6 +3918,7 @@
 - Removed CC Houses
 - Removed CC New PowerArmor
 - Removed Creation Club
+
 
 
 
