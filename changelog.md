@@ -9,6 +9,44 @@
 - [2.5.1.1](#2511)
 - [2.5.1.5](#2515) (turtle/gun edition still available on nexus)
 - [2.5.2](#252)
+- [2.6](#26)
+
+## 2.6
+**Built at:** `1/10/2026 10:53:46 PM`
+
+**Info:**
+- Download size change: 7.3MB (Total: 104.6GB)
+- Install size change: 16.8MB (Total: 144.4GB)
+
+**Download Changes:**
+
+- Added [FCOM - Fallout Commander v3.11](https://www.nexusmods.com/fallout4/mods/14946)
+- Added [FCOM - Fallout Commander v3.11](https://www.nexusmods.com/fallout4/mods/14946)
+- Added [FCOM - Fallout Commander v3.11](https://www.nexusmods.com/fallout4/mods/14946)
+- Added [FCOM - Fallout Commander v3.11](https://www.nexusmods.com/fallout4/mods/14946)
+- Updated [DynDOLOD 3 Alpha to vAlpha-155](https://www.nexusmods.com/skyrimspecialedition/mods/68518)
+- Removed [DynDOLOD 3 Alpha vAlpha-155](https://www.nexusmods.com/skyrimspecialedition/mods/68518)
+- Removed [Airship Haven Blueprint v1.0](https://www.nexusmods.com/fallout4/mods/59394)
+- Removed [Vault 88 Template - Optimised v1.25](https://www.nexusmods.com/fallout4/mods/31192)
+- Removed [Airship - Player Home and Settlement v2.5](https://www.nexusmods.com/fallout4/mods/15228)
+
+**Load Order Changes:**
+- Added FCOM.esp
+- Added FCOM-CCHellfire.esp
+- Added FCOM-CCIncinerator.esp
+- Added FCOM-CCX02.esp
+- Removed AirshipHome.esp
+- Removed Vault 88 Template - Optimised.esp
+
+**Mod Changes:**
+- Added FCOM-CCX02 Patch
+- Added FCOM-CCIncinerator Patch
+- Added FCOM-CCHellfire Patch
+- Added FCOM - Fallout Commander
+- Removed Airship Haven Blueprint
+- Removed Airship - Player Home and Settlement
+- Removed Vault 88 Template - Optimised
+
 
 ## 2.5.2
 **Built at:** `1/9/2026 10:06:41 PM`
@@ -4124,6 +4162,7 @@
 - Removed CC Houses
 - Removed CC New PowerArmor
 - Removed Creation Club
+
 
 
 
