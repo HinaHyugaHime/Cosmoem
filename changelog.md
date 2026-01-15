@@ -11,6 +11,105 @@
 - [2.5.2](#252)
 - [2.6](#26)
 - [2.6.2](#262)
+- [2.7](#27)
+
+## 2.7
+**Built at:** `1/15/2026 5:26:59 PM`
+
+**Info:**
+- Download size change: -10.9GB (Total: 115.6GB)
+- Install size change: -24.3GB (Total: 168.2GB)
+
+**Download Changes:**
+
+- Added [FO4 Crash Log Auto Scanner And Setup Integrity Checker (CLASSIC) v7.20](https://www.nexusmods.com/fallout4/mods/56255)
+- Added [Misery Island - Isles Of New England v1.0](https://www.nexusmods.com/fallout4/mods/87983)
+- Added [Misery Island - Isles Of New England v1.0](https://www.nexusmods.com/fallout4/mods/87983)
+- Added [Baka Power Armor Storage v1.3.2](https://www.nexusmods.com/fallout4/mods/73756)
+- Added [Boon Island - Isles Of New England v1.0.1](https://www.nexusmods.com/fallout4/mods/84449)
+- Added [Clothes Pack 2 by DonEb14n v1.0](https://www.nexusmods.com/fallout4/mods/50250)
+- Added [Clothes Pack 3 by DonEb14n - CBBE - BodySlide v1.0](https://www.nexusmods.com/fallout4/mods/52199)
+- Added [Clothes Pack 4 by DonEb14n - CBBE - BodySlide v1.0](https://www.nexusmods.com/fallout4/mods/53293)
+- Added [Clothes Pack 5 by DonEb14n - CBBE - TWB - BodySlide v1.1](https://www.nexusmods.com/fallout4/mods/58586)
+- Added [Clothes Pack 6 by DonEb14n - CBBE  - BodySlide v1.0](https://www.nexusmods.com/fallout4/mods/74570)
+- Added [Clothes Pack Remake by DonEb14n - CBBE - BodySlide v1.3](https://www.nexusmods.com/fallout4/mods/51475)
+- Added [Misery Island - Isles Of New England v1.0](https://www.nexusmods.com/fallout4/mods/87983)
+- Added [Power Armor Materials AND Paints (PAMAP) Revival v1.0.6](https://www.nexusmods.com/fallout4/mods/89990)
+- Added [Clothes Pack 5 by DonEb14n - CBBE - TWB - BodySlide v1.1](https://www.nexusmods.com/fallout4/mods/58586)
+- Added [Restore Power Armor Frames v1.1](https://www.nexusmods.com/fallout4/mods/20890)
+- Added [Boon Island - Isles Of New England v1.0.1](https://www.nexusmods.com/fallout4/mods/84449)
+- Added [Misery Island - Isles Of New England v1.0](https://www.nexusmods.com/fallout4/mods/87983)
+- Added [Data_Sound_Voice_Processing_FonixData.cdf](about:blank)
+- Added [Homemaker - Expanded Settlements CTD Fix v1.72](https://www.nexusmods.com/fallout4/mods/41434)
+- Added [Tools_LipGen_LipGenerator_LipGenerator.exe](about:blank)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [Kezyma's Root Builder for Mod Organizer to v4.5.2](https://www.nexusmods.com/skyrimspecialedition/mods/31720)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [Kim Hairstyle to v1.09](https://www.nexusmods.com/fallout4/mods/76952)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [Kezyma's Root Builder for Mod Organizer v4.5.2](https://www.nexusmods.com/skyrimspecialedition/mods/31720)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [Kim Hairstyle v1.09](https://www.nexusmods.com/fallout4/mods/76952)
+- Removed [Bullet Impact Overhaul v1.7](https://www.nexusmods.com/fallout4/mods/64891)
+- Removed [F4 Creation Kit Fixes v2.0](https://www.nexusmods.com/fallout4/mods/51165)
+- Removed [Data_ccBGSFO4019-ChineseStealthArmor - Main.ba2](about:blank)
+- Removed [Hit Those Objects v1.1.0](https://www.nexusmods.com/fallout4/mods/85755)
+- Removed [Data_ccBGSFO4019-ChineseStealthArmor - Textures.ba2](about:blank)
+- Removed [Power Armor Collection System - Allows you to store Power Armor in your inventory v1](https://www.nexusmods.com/fallout4/mods/36290)
+- Removed [Falcon Arms MP4 Spectre SMG v1.03](https://www.nexusmods.com/fallout4/mods/93987)
+
+**Load Order Changes:**
+- Added INE_MiseryIsland.esp
+- Added INE_BoonIsland.esp
+- Added BakaPowerArmorStorage.esm
+- Added PAMAP.esp
+- Added RestorePAFrames.esp
+- Added Clothes Pack v2.0 by DonEb14n.esp
+- Added Clothes Pack 2 by DonEb14n.esp
+- Added Clothes Pack 3 by DonEb14n.esp
+- Added Clothes Pack 4 by DonEb14n.esp
+- Added Clothes Pack 5 by DonEb14n.esp
+- Added Clothes Pack 6 by DonEb14n.esp
+- Added INE_BoonIsland_ReducedRain.esp
+- Removed Hit Those Objects.esm
+- Removed Bullet Impact Overhaul.esp
+- Removed PowerArmorCollection.esp
+
+**Mod Changes:**
+- Added Not Yet Installed_separator
+- Added Outputs_separator
+- Added Homemaker - Expanded Settlements CTD Fix
+- Added Bug Fixes_separator
+- Added Restore Power Armor Frames
+- Added Power Armor Materials AND Paints (PAMAP) Revival
+- Added Baka Power Armor Storage
+- Added QOL_separator
+- Added Visual+SFX+Weather_separator
+- Added Clothes Pack 6 by DonEb14n - CBBE - BodySlide
+- Added Clothes Pack 5 by DonEb14n - CBBE - BodySlide
+- Added Clothes Pack 4 by DonEb14n - CBBE - BodySlide
+- Added Clothes Pack 3 by DonEb14n - CBBE - BodySlide
+- Added Clothes Pack 2 by DonEb14n
+- Added Clothes Pack Remake by DonEb14n - CBBE - BodySlide
+- Added Outfits_separator
+- Added Settlements_separator
+- Added Body - Makeup_separator
+- Added Body - Hair_separator
+- Added Body_separator
+- Added HUD_separator
+- Added Boon Island - Isles Of New England
+- Added Misery Island - Isles Of New England
+- Added Quests_separator
+- Added Utilities_separator
+- Added Base Game_separator
+- Added Cosmoem_separator- Removed Power Armor Collection
+- Removed Hit Those Objects
+- Removed Bullet Impact Overhaul
+
 
 ## 2.6.2
 **Built at:** `1/12/2026 7:08:11 PM`
@@ -4192,6 +4291,7 @@
 - Removed CC Houses
 - Removed CC New PowerArmor
 - Removed Creation Club
+
 
 
 
