@@ -7,7 +7,7 @@
 - [2.5](#25)
 - [2.5.1](#251)
 - [2.5.1.1](#2511)
-- [2.5.1.5](#2515) (turtle/gun edition still available on nexus)
+- [2.5.1.5](#2515)
 - [2.5.2](#252)
 - [2.6](#26)
 - [2.6.2](#262)
@@ -4291,6 +4291,7 @@
 - Removed CC Houses
 - Removed CC New PowerArmor
 - Removed Creation Club
+
 
 
 
